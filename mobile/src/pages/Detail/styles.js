@@ -18,8 +18,8 @@ export default StyleSheet.create({
         padding: 24,
         borderRadius: 8,
         backgroundColor: '#FFF',
-        marginTop: 48,
-        marginBottom: 16,
+        marginTop: 20,
+        marginBottom: 8,
 
     },
 
@@ -27,11 +27,11 @@ export default StyleSheet.create({
         fontSize: 14,
         color: '#414d',
         fontWeight: 'bold',
-        marginTop: 24,
+        marginTop: 15,
     },
 
     incidentValue: {
-        marginTop: 8,
+        marginTop: 6,
         fontSize: 15,
         color: '#737380',
     },
@@ -40,7 +40,7 @@ export default StyleSheet.create({
         padding: 24,
         borderRadius: 8,
         backgroundColor: '#FFF',
-        marginBottom: 16,
+        marginBottom: 8,
     },
 
     heroTitle: {
@@ -53,11 +53,11 @@ export default StyleSheet.create({
     heroDescription: {
         fontSize: 15,
         color: '#737380',
-        marginTop: 16,
+        marginTop: 8,
     },
 
     actions: {
-        marginTop: 16,
+        marginTop: 8,
         flexDirection: 'row',
         justifyContent: 'space-between',
     },
