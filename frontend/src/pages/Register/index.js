@@ -7,7 +7,6 @@ import './styles.css';
 import api from '../../services/api';
 
 import logoImg from '../../assets/logo.svg';
-import Axios from 'axios';
 
 
 export default function Register(){
